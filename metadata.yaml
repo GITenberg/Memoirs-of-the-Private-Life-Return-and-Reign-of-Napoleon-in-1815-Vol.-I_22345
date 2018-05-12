@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25279
     wikipedia: http://fr.wikipedia.org/wiki/Fleury_de_Chaboulon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22345#Memoirs-of-the-Private-Life-Return-and-Reign-of-Napoleon-in-1815-Vol.-I
 gutenberg_bookshelf:
 - Napoleonic(Bookshelf)
 - Biographies
